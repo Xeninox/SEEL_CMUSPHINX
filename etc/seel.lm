@@ -1,0 +1,81 @@
+
+\data\
+ngram 1=30
+ngram 2=41
+
+\1-grams:
+-0.6585413	</s>
+-99	<s>	-99
+-1.612784	ab)di	-99
+-1.612784	aha	-99
+-1.612784	as3m	-99
+-1.612784	awuradi	-99
+-1.612784	b3	-99
+-1.612784	ba	-99
+-1.612784	be	-99
+-1.612784	bue	-99
+-1.612784	d3	-99
+-1.612784	debi	-99
+-1.612784	k3si	-99
+-1.612784	kwan	-99
+-1.612784	maban	-99
+-1.612784	madi	-99
+-1.612784	master	-99
+-1.612784	mi	-99
+-1.135663	ni	-99
+-1.612784	nyani	-99
+-1.311754	nyinaa	-99
+-1.612784	obi	-99
+-1.612784	obia	-99
+-1.612784	su	-99
+-1.612784	w)	-99
+-1.311754	wu	-99
+-1.612784	y3	-99
+-1.612784	yehowa	-99
+-1.612784	yesu	-99
+-1.612784	yiway3	-99
+
+\2-grams:
+-0.9542425	<s> ab)di
+-0.9542425	<s> aha
+-0.9542425	<s> as3m
+-0.9542425	<s> awuradi
+-0.9542425	<s> bue
+-0.9542425	<s> obi
+-0.9542425	<s> obia
+-0.9542425	<s> yehowa
+-0.9542425	<s> yesu
+0	ab)di nyinaa
+0	aha y3
+0	as3m b3
+0	awuradi wu
+0	b3 ba
+0	ba debi
+0	be yiway3
+0	bue kwan
+0	d3 </s>
+0	debi </s>
+0	k3si </s>
+0	kwan </s>
+0	maban k3si
+0	madi nyinaa
+0	master </s>
+0	mi </s>
+-0.4771213	ni maban
+-0.4771213	ni madi
+-0.4771213	ni master
+0	nyani mi
+-0.30103	nyinaa </s>
+-0.30103	nyinaa be
+0	obi nyani
+0	obia w)
+0	su </s>
+0	w) ni
+-0.30103	wu ni
+-0.30103	wu su
+0	y3 d3
+0	yehowa ni
+0	yesu wu
+0	yiway3 </s>
+
+\end\
