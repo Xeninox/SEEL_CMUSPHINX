@@ -58,165 +58,84 @@ Current configuration:
 
 INFO: sphinx_fe.c(971): Processing all remaining utterances at position 0
 INFO: sphinx_fe.c(791): Converting /home/likudie/SEEL_CMUSPHINX/wav/speaker_1/adobs_2.wav to /home/likudie/SEEL_CMUSPHINX/feat/speaker_1/adobs_2.mfc
-ERROR: "sphinx_fe.c", line 140: Sample rate 44100 does not match configured value 16000.0 in file '/home/likudie/SEEL_CMUSPHINX/wav/speaker_1/adobs_2.wav'
 INFO: sphinx_fe.c(791): Converting /home/likudie/SEEL_CMUSPHINX/wav/speaker_1/adobs_3.wav to /home/likudie/SEEL_CMUSPHINX/feat/speaker_1/adobs_3.mfc
-ERROR: "sphinx_fe.c", line 140: Sample rate 44100 does not match configured value 16000.0 in file '/home/likudie/SEEL_CMUSPHINX/wav/speaker_1/adobs_3.wav'
 INFO: sphinx_fe.c(791): Converting /home/likudie/SEEL_CMUSPHINX/wav/speaker_1/adobs_4.wav to /home/likudie/SEEL_CMUSPHINX/feat/speaker_1/adobs_4.mfc
-ERROR: "sphinx_fe.c", line 140: Sample rate 44100 does not match configured value 16000.0 in file '/home/likudie/SEEL_CMUSPHINX/wav/speaker_1/adobs_4.wav'
 INFO: sphinx_fe.c(791): Converting /home/likudie/SEEL_CMUSPHINX/wav/speaker_1/adobs_5.wav to /home/likudie/SEEL_CMUSPHINX/feat/speaker_1/adobs_5.mfc
-ERROR: "sphinx_fe.c", line 140: Sample rate 44100 does not match configured value 16000.0 in file '/home/likudie/SEEL_CMUSPHINX/wav/speaker_1/adobs_5.wav'
 INFO: sphinx_fe.c(791): Converting /home/likudie/SEEL_CMUSPHINX/wav/speaker_1/adobs_6.wav to /home/likudie/SEEL_CMUSPHINX/feat/speaker_1/adobs_6.mfc
-ERROR: "sphinx_fe.c", line 140: Sample rate 44100 does not match configured value 16000.0 in file '/home/likudie/SEEL_CMUSPHINX/wav/speaker_1/adobs_6.wav'
 INFO: sphinx_fe.c(791): Converting /home/likudie/SEEL_CMUSPHINX/wav/speaker_1/adobs_7.wav to /home/likudie/SEEL_CMUSPHINX/feat/speaker_1/adobs_7.mfc
-ERROR: "sphinx_fe.c", line 140: Sample rate 44100 does not match configured value 16000.0 in file '/home/likudie/SEEL_CMUSPHINX/wav/speaker_1/adobs_7.wav'
 INFO: sphinx_fe.c(791): Converting /home/likudie/SEEL_CMUSPHINX/wav/speaker_1/adobs_8.wav to /home/likudie/SEEL_CMUSPHINX/feat/speaker_1/adobs_8.mfc
-ERROR: "sphinx_fe.c", line 140: Sample rate 44100 does not match configured value 16000.0 in file '/home/likudie/SEEL_CMUSPHINX/wav/speaker_1/adobs_8.wav'
 INFO: sphinx_fe.c(791): Converting /home/likudie/SEEL_CMUSPHINX/wav/speaker_1/adobs_9.wav to /home/likudie/SEEL_CMUSPHINX/feat/speaker_1/adobs_9.mfc
-ERROR: "sphinx_fe.c", line 140: Sample rate 44100 does not match configured value 16000.0 in file '/home/likudie/SEEL_CMUSPHINX/wav/speaker_1/adobs_9.wav'
 INFO: sphinx_fe.c(791): Converting /home/likudie/SEEL_CMUSPHINX/wav/speaker_2/dav_1.wav to /home/likudie/SEEL_CMUSPHINX/feat/speaker_2/dav_1.mfc
-ERROR: "sphinx_fe.c", line 140: Sample rate 44100 does not match configured value 16000.0 in file '/home/likudie/SEEL_CMUSPHINX/wav/speaker_2/dav_1.wav'
 INFO: sphinx_fe.c(791): Converting /home/likudie/SEEL_CMUSPHINX/wav/speaker_2/dav_3.wav to /home/likudie/SEEL_CMUSPHINX/feat/speaker_2/dav_3.mfc
-ERROR: "sphinx_fe.c", line 140: Sample rate 44100 does not match configured value 16000.0 in file '/home/likudie/SEEL_CMUSPHINX/wav/speaker_2/dav_3.wav'
 INFO: sphinx_fe.c(791): Converting /home/likudie/SEEL_CMUSPHINX/wav/speaker_2/dav_4.wav to /home/likudie/SEEL_CMUSPHINX/feat/speaker_2/dav_4.mfc
-ERROR: "sphinx_fe.c", line 140: Sample rate 44100 does not match configured value 16000.0 in file '/home/likudie/SEEL_CMUSPHINX/wav/speaker_2/dav_4.wav'
 INFO: sphinx_fe.c(791): Converting /home/likudie/SEEL_CMUSPHINX/wav/speaker_2/dav_5.wav to /home/likudie/SEEL_CMUSPHINX/feat/speaker_2/dav_5.mfc
-ERROR: "sphinx_fe.c", line 140: Sample rate 44100 does not match configured value 16000.0 in file '/home/likudie/SEEL_CMUSPHINX/wav/speaker_2/dav_5.wav'
 INFO: sphinx_fe.c(791): Converting /home/likudie/SEEL_CMUSPHINX/wav/speaker_2/dav_6.wav to /home/likudie/SEEL_CMUSPHINX/feat/speaker_2/dav_6.mfc
-ERROR: "sphinx_fe.c", line 140: Sample rate 44100 does not match configured value 16000.0 in file '/home/likudie/SEEL_CMUSPHINX/wav/speaker_2/dav_6.wav'
 INFO: sphinx_fe.c(791): Converting /home/likudie/SEEL_CMUSPHINX/wav/speaker_2/dav_7.wav to /home/likudie/SEEL_CMUSPHINX/feat/speaker_2/dav_7.mfc
-ERROR: "sphinx_fe.c", line 140: Sample rate 44100 does not match configured value 16000.0 in file '/home/likudie/SEEL_CMUSPHINX/wav/speaker_2/dav_7.wav'
 INFO: sphinx_fe.c(791): Converting /home/likudie/SEEL_CMUSPHINX/wav/speaker_2/dav_8.wav to /home/likudie/SEEL_CMUSPHINX/feat/speaker_2/dav_8.mfc
-ERROR: "sphinx_fe.c", line 140: Sample rate 44100 does not match configured value 16000.0 in file '/home/likudie/SEEL_CMUSPHINX/wav/speaker_2/dav_8.wav'
 INFO: sphinx_fe.c(791): Converting /home/likudie/SEEL_CMUSPHINX/wav/speaker_2/dav_9.wav to /home/likudie/SEEL_CMUSPHINX/feat/speaker_2/dav_9.mfc
-ERROR: "sphinx_fe.c", line 140: Sample rate 44100 does not match configured value 16000.0 in file '/home/likudie/SEEL_CMUSPHINX/wav/speaker_2/dav_9.wav'
 INFO: sphinx_fe.c(791): Converting /home/likudie/SEEL_CMUSPHINX/wav/speaker_3/gospel_1.wav to /home/likudie/SEEL_CMUSPHINX/feat/speaker_3/gospel_1.mfc
-ERROR: "sphinx_fe.c", line 140: Sample rate 44100 does not match configured value 16000.0 in file '/home/likudie/SEEL_CMUSPHINX/wav/speaker_3/gospel_1.wav'
 INFO: sphinx_fe.c(791): Converting /home/likudie/SEEL_CMUSPHINX/wav/speaker_3/gospel_2.wav to /home/likudie/SEEL_CMUSPHINX/feat/speaker_3/gospel_2.mfc
-ERROR: "sphinx_fe.c", line 140: Sample rate 44100 does not match configured value 16000.0 in file '/home/likudie/SEEL_CMUSPHINX/wav/speaker_3/gospel_2.wav'
 INFO: sphinx_fe.c(791): Converting /home/likudie/SEEL_CMUSPHINX/wav/speaker_3/gospel_4.wav to /home/likudie/SEEL_CMUSPHINX/feat/speaker_3/gospel_4.mfc
-ERROR: "sphinx_fe.c", line 140: Sample rate 44100 does not match configured value 16000.0 in file '/home/likudie/SEEL_CMUSPHINX/wav/speaker_3/gospel_4.wav'
 INFO: sphinx_fe.c(791): Converting /home/likudie/SEEL_CMUSPHINX/wav/speaker_3/gospel_5.wav to /home/likudie/SEEL_CMUSPHINX/feat/speaker_3/gospel_5.mfc
-ERROR: "sphinx_fe.c", line 140: Sample rate 44100 does not match configured value 16000.0 in file '/home/likudie/SEEL_CMUSPHINX/wav/speaker_3/gospel_5.wav'
 INFO: sphinx_fe.c(791): Converting /home/likudie/SEEL_CMUSPHINX/wav/speaker_3/gospel_6.wav to /home/likudie/SEEL_CMUSPHINX/feat/speaker_3/gospel_6.mfc
-ERROR: "sphinx_fe.c", line 140: Sample rate 44100 does not match configured value 16000.0 in file '/home/likudie/SEEL_CMUSPHINX/wav/speaker_3/gospel_6.wav'
 INFO: sphinx_fe.c(791): Converting /home/likudie/SEEL_CMUSPHINX/wav/speaker_3/gospel_7.wav to /home/likudie/SEEL_CMUSPHINX/feat/speaker_3/gospel_7.mfc
-ERROR: "sphinx_fe.c", line 140: Sample rate 44100 does not match configured value 16000.0 in file '/home/likudie/SEEL_CMUSPHINX/wav/speaker_3/gospel_7.wav'
 INFO: sphinx_fe.c(791): Converting /home/likudie/SEEL_CMUSPHINX/wav/speaker_3/gospel_8.wav to /home/likudie/SEEL_CMUSPHINX/feat/speaker_3/gospel_8.mfc
-ERROR: "sphinx_fe.c", line 140: Sample rate 44100 does not match configured value 16000.0 in file '/home/likudie/SEEL_CMUSPHINX/wav/speaker_3/gospel_8.wav'
 INFO: sphinx_fe.c(791): Converting /home/likudie/SEEL_CMUSPHINX/wav/speaker_3/gospel_9.wav to /home/likudie/SEEL_CMUSPHINX/feat/speaker_3/gospel_9.mfc
-ERROR: "sphinx_fe.c", line 140: Sample rate 44100 does not match configured value 16000.0 in file '/home/likudie/SEEL_CMUSPHINX/wav/speaker_3/gospel_9.wav'
 INFO: sphinx_fe.c(791): Converting /home/likudie/SEEL_CMUSPHINX/wav/speaker_4/jeremiah_1.wav to /home/likudie/SEEL_CMUSPHINX/feat/speaker_4/jeremiah_1.mfc
-ERROR: "sphinx_fe.c", line 140: Sample rate 44100 does not match configured value 16000.0 in file '/home/likudie/SEEL_CMUSPHINX/wav/speaker_4/jeremiah_1.wav'
 INFO: sphinx_fe.c(791): Converting /home/likudie/SEEL_CMUSPHINX/wav/speaker_4/jeremiah_2.wav to /home/likudie/SEEL_CMUSPHINX/feat/speaker_4/jeremiah_2.mfc
-ERROR: "sphinx_fe.c", line 140: Sample rate 44100 does not match configured value 16000.0 in file '/home/likudie/SEEL_CMUSPHINX/wav/speaker_4/jeremiah_2.wav'
 INFO: sphinx_fe.c(791): Converting /home/likudie/SEEL_CMUSPHINX/wav/speaker_4/jeremiah_3.wav to /home/likudie/SEEL_CMUSPHINX/feat/speaker_4/jeremiah_3.mfc
-ERROR: "sphinx_fe.c", line 140: Sample rate 44100 does not match configured value 16000.0 in file '/home/likudie/SEEL_CMUSPHINX/wav/speaker_4/jeremiah_3.wav'
 INFO: sphinx_fe.c(791): Converting /home/likudie/SEEL_CMUSPHINX/wav/speaker_4/jeremiah_5.wav to /home/likudie/SEEL_CMUSPHINX/feat/speaker_4/jeremiah_5.mfc
-ERROR: "sphinx_fe.c", line 140: Sample rate 44100 does not match configured value 16000.0 in file '/home/likudie/SEEL_CMUSPHINX/wav/speaker_4/jeremiah_5.wav'
 INFO: sphinx_fe.c(791): Converting /home/likudie/SEEL_CMUSPHINX/wav/speaker_4/jeremiah_6.wav to /home/likudie/SEEL_CMUSPHINX/feat/speaker_4/jeremiah_6.mfc
-ERROR: "sphinx_fe.c", line 140: Sample rate 44100 does not match configured value 16000.0 in file '/home/likudie/SEEL_CMUSPHINX/wav/speaker_4/jeremiah_6.wav'
 INFO: sphinx_fe.c(791): Converting /home/likudie/SEEL_CMUSPHINX/wav/speaker_4/jeremiah_7.wav to /home/likudie/SEEL_CMUSPHINX/feat/speaker_4/jeremiah_7.mfc
-ERROR: "sphinx_fe.c", line 140: Sample rate 44100 does not match configured value 16000.0 in file '/home/likudie/SEEL_CMUSPHINX/wav/speaker_4/jeremiah_7.wav'
 INFO: sphinx_fe.c(791): Converting /home/likudie/SEEL_CMUSPHINX/wav/speaker_4/jeremiah_8.wav to /home/likudie/SEEL_CMUSPHINX/feat/speaker_4/jeremiah_8.mfc
-ERROR: "sphinx_fe.c", line 140: Sample rate 44100 does not match configured value 16000.0 in file '/home/likudie/SEEL_CMUSPHINX/wav/speaker_4/jeremiah_8.wav'
 INFO: sphinx_fe.c(791): Converting /home/likudie/SEEL_CMUSPHINX/wav/speaker_4/jeremiah_9.wav to /home/likudie/SEEL_CMUSPHINX/feat/speaker_4/jeremiah_9.mfc
-ERROR: "sphinx_fe.c", line 140: Sample rate 44100 does not match configured value 16000.0 in file '/home/likudie/SEEL_CMUSPHINX/wav/speaker_4/jeremiah_9.wav'
 INFO: sphinx_fe.c(791): Converting /home/likudie/SEEL_CMUSPHINX/wav/speaker_5/karin_1.wav to /home/likudie/SEEL_CMUSPHINX/feat/speaker_5/karin_1.mfc
-ERROR: "sphinx_fe.c", line 140: Sample rate 44100 does not match configured value 16000.0 in file '/home/likudie/SEEL_CMUSPHINX/wav/speaker_5/karin_1.wav'
 INFO: sphinx_fe.c(791): Converting /home/likudie/SEEL_CMUSPHINX/wav/speaker_5/karin_2.wav to /home/likudie/SEEL_CMUSPHINX/feat/speaker_5/karin_2.mfc
-ERROR: "sphinx_fe.c", line 140: Sample rate 44100 does not match configured value 16000.0 in file '/home/likudie/SEEL_CMUSPHINX/wav/speaker_5/karin_2.wav'
 INFO: sphinx_fe.c(791): Converting /home/likudie/SEEL_CMUSPHINX/wav/speaker_5/karin_3.wav to /home/likudie/SEEL_CMUSPHINX/feat/speaker_5/karin_3.mfc
-ERROR: "sphinx_fe.c", line 140: Sample rate 44100 does not match configured value 16000.0 in file '/home/likudie/SEEL_CMUSPHINX/wav/speaker_5/karin_3.wav'
 INFO: sphinx_fe.c(791): Converting /home/likudie/SEEL_CMUSPHINX/wav/speaker_5/karin_4.wav to /home/likudie/SEEL_CMUSPHINX/feat/speaker_5/karin_4.mfc
-ERROR: "sphinx_fe.c", line 140: Sample rate 44100 does not match configured value 16000.0 in file '/home/likudie/SEEL_CMUSPHINX/wav/speaker_5/karin_4.wav'
 INFO: sphinx_fe.c(791): Converting /home/likudie/SEEL_CMUSPHINX/wav/speaker_5/karin_6.wav to /home/likudie/SEEL_CMUSPHINX/feat/speaker_5/karin_6.mfc
-ERROR: "sphinx_fe.c", line 140: Sample rate 44100 does not match configured value 16000.0 in file '/home/likudie/SEEL_CMUSPHINX/wav/speaker_5/karin_6.wav'
 INFO: sphinx_fe.c(791): Converting /home/likudie/SEEL_CMUSPHINX/wav/speaker_5/karin_7.wav to /home/likudie/SEEL_CMUSPHINX/feat/speaker_5/karin_7.mfc
-ERROR: "sphinx_fe.c", line 140: Sample rate 44100 does not match configured value 16000.0 in file '/home/likudie/SEEL_CMUSPHINX/wav/speaker_5/karin_7.wav'
 INFO: sphinx_fe.c(791): Converting /home/likudie/SEEL_CMUSPHINX/wav/speaker_5/karin_8.wav to /home/likudie/SEEL_CMUSPHINX/feat/speaker_5/karin_8.mfc
-ERROR: "sphinx_fe.c", line 140: Sample rate 44100 does not match configured value 16000.0 in file '/home/likudie/SEEL_CMUSPHINX/wav/speaker_5/karin_8.wav'
 INFO: sphinx_fe.c(791): Converting /home/likudie/SEEL_CMUSPHINX/wav/speaker_5/karin_9.wav to /home/likudie/SEEL_CMUSPHINX/feat/speaker_5/karin_9.mfc
-ERROR: "sphinx_fe.c", line 140: Sample rate 44100 does not match configured value 16000.0 in file '/home/likudie/SEEL_CMUSPHINX/wav/speaker_5/karin_9.wav'
 INFO: sphinx_fe.c(791): Converting /home/likudie/SEEL_CMUSPHINX/wav/speaker_6/mariam_1.wav to /home/likudie/SEEL_CMUSPHINX/feat/speaker_6/mariam_1.mfc
-ERROR: "sphinx_fe.c", line 140: Sample rate 44100 does not match configured value 16000.0 in file '/home/likudie/SEEL_CMUSPHINX/wav/speaker_6/mariam_1.wav'
 INFO: sphinx_fe.c(791): Converting /home/likudie/SEEL_CMUSPHINX/wav/speaker_6/mariam_2.wav to /home/likudie/SEEL_CMUSPHINX/feat/speaker_6/mariam_2.mfc
-ERROR: "sphinx_fe.c", line 140: Sample rate 44100 does not match configured value 16000.0 in file '/home/likudie/SEEL_CMUSPHINX/wav/speaker_6/mariam_2.wav'
 INFO: sphinx_fe.c(791): Converting /home/likudie/SEEL_CMUSPHINX/wav/speaker_6/mariam_3.wav to /home/likudie/SEEL_CMUSPHINX/feat/speaker_6/mariam_3.mfc
-ERROR: "sphinx_fe.c", line 140: Sample rate 44100 does not match configured value 16000.0 in file '/home/likudie/SEEL_CMUSPHINX/wav/speaker_6/mariam_3.wav'
 INFO: sphinx_fe.c(791): Converting /home/likudie/SEEL_CMUSPHINX/wav/speaker_6/mariam_4.wav to /home/likudie/SEEL_CMUSPHINX/feat/speaker_6/mariam_4.mfc
-ERROR: "sphinx_fe.c", line 140: Sample rate 44100 does not match configured value 16000.0 in file '/home/likudie/SEEL_CMUSPHINX/wav/speaker_6/mariam_4.wav'
 INFO: sphinx_fe.c(791): Converting /home/likudie/SEEL_CMUSPHINX/wav/speaker_6/mariam_5.wav to /home/likudie/SEEL_CMUSPHINX/feat/speaker_6/mariam_5.mfc
-ERROR: "sphinx_fe.c", line 140: Sample rate 44100 does not match configured value 16000.0 in file '/home/likudie/SEEL_CMUSPHINX/wav/speaker_6/mariam_5.wav'
 INFO: sphinx_fe.c(791): Converting /home/likudie/SEEL_CMUSPHINX/wav/speaker_6/mariam_7.wav to /home/likudie/SEEL_CMUSPHINX/feat/speaker_6/mariam_7.mfc
-ERROR: "sphinx_fe.c", line 140: Sample rate 44100 does not match configured value 16000.0 in file '/home/likudie/SEEL_CMUSPHINX/wav/speaker_6/mariam_7.wav'
 INFO: sphinx_fe.c(791): Converting /home/likudie/SEEL_CMUSPHINX/wav/speaker_6/mariam_8.wav to /home/likudie/SEEL_CMUSPHINX/feat/speaker_6/mariam_8.mfc
-ERROR: "sphinx_fe.c", line 140: Sample rate 44100 does not match configured value 16000.0 in file '/home/likudie/SEEL_CMUSPHINX/wav/speaker_6/mariam_8.wav'
 INFO: sphinx_fe.c(791): Converting /home/likudie/SEEL_CMUSPHINX/wav/speaker_6/mariam_9.wav to /home/likudie/SEEL_CMUSPHINX/feat/speaker_6/mariam_9.mfc
-ERROR: "sphinx_fe.c", line 140: Sample rate 44100 does not match configured value 16000.0 in file '/home/likudie/SEEL_CMUSPHINX/wav/speaker_6/mariam_9.wav'
 INFO: sphinx_fe.c(791): Converting /home/likudie/SEEL_CMUSPHINX/wav/speaker_7/nanaaba_1.wav to /home/likudie/SEEL_CMUSPHINX/feat/speaker_7/nanaaba_1.mfc
-ERROR: "sphinx_fe.c", line 140: Sample rate 44100 does not match configured value 16000.0 in file '/home/likudie/SEEL_CMUSPHINX/wav/speaker_7/nanaaba_1.wav'
 INFO: sphinx_fe.c(791): Converting /home/likudie/SEEL_CMUSPHINX/wav/speaker_7/nanaaba_2.wav to /home/likudie/SEEL_CMUSPHINX/feat/speaker_7/nanaaba_2.mfc
-ERROR: "sphinx_fe.c", line 140: Sample rate 44100 does not match configured value 16000.0 in file '/home/likudie/SEEL_CMUSPHINX/wav/speaker_7/nanaaba_2.wav'
 INFO: sphinx_fe.c(791): Converting /home/likudie/SEEL_CMUSPHINX/wav/speaker_7/nanaaba_3.wav to /home/likudie/SEEL_CMUSPHINX/feat/speaker_7/nanaaba_3.mfc
-ERROR: "sphinx_fe.c", line 140: Sample rate 44100 does not match configured value 16000.0 in file '/home/likudie/SEEL_CMUSPHINX/wav/speaker_7/nanaaba_3.wav'
 INFO: sphinx_fe.c(791): Converting /home/likudie/SEEL_CMUSPHINX/wav/speaker_7/nanaaba_4.wav to /home/likudie/SEEL_CMUSPHINX/feat/speaker_7/nanaaba_4.mfc
-ERROR: "sphinx_fe.c", line 140: Sample rate 44100 does not match configured value 16000.0 in file '/home/likudie/SEEL_CMUSPHINX/wav/speaker_7/nanaaba_4.wav'
 INFO: sphinx_fe.c(791): Converting /home/likudie/SEEL_CMUSPHINX/wav/speaker_7/nanaaba_5.wav to /home/likudie/SEEL_CMUSPHINX/feat/speaker_7/nanaaba_5.mfc
-ERROR: "sphinx_fe.c", line 140: Sample rate 44100 does not match configured value 16000.0 in file '/home/likudie/SEEL_CMUSPHINX/wav/speaker_7/nanaaba_5.wav'
 INFO: sphinx_fe.c(791): Converting /home/likudie/SEEL_CMUSPHINX/wav/speaker_7/nanaaba_6.wav to /home/likudie/SEEL_CMUSPHINX/feat/speaker_7/nanaaba_6.mfc
-ERROR: "sphinx_fe.c", line 140: Sample rate 44100 does not match configured value 16000.0 in file '/home/likudie/SEEL_CMUSPHINX/wav/speaker_7/nanaaba_6.wav'
 INFO: sphinx_fe.c(791): Converting /home/likudie/SEEL_CMUSPHINX/wav/speaker_7/nanaaba_8.wav to /home/likudie/SEEL_CMUSPHINX/feat/speaker_7/nanaaba_8.mfc
-ERROR: "sphinx_fe.c", line 140: Sample rate 44100 does not match configured value 16000.0 in file '/home/likudie/SEEL_CMUSPHINX/wav/speaker_7/nanaaba_8.wav'
 INFO: sphinx_fe.c(791): Converting /home/likudie/SEEL_CMUSPHINX/wav/speaker_7/nanaaba_9.wav to /home/likudie/SEEL_CMUSPHINX/feat/speaker_7/nanaaba_9.mfc
-ERROR: "sphinx_fe.c", line 140: Sample rate 44100 does not match configured value 16000.0 in file '/home/likudie/SEEL_CMUSPHINX/wav/speaker_7/nanaaba_9.wav'
 INFO: sphinx_fe.c(791): Converting /home/likudie/SEEL_CMUSPHINX/wav/speaker_8/niiq_1.wav to /home/likudie/SEEL_CMUSPHINX/feat/speaker_8/niiq_1.mfc
-ERROR: "sphinx_fe.c", line 140: Sample rate 44100 does not match configured value 16000.0 in file '/home/likudie/SEEL_CMUSPHINX/wav/speaker_8/niiq_1.wav'
 INFO: sphinx_fe.c(791): Converting /home/likudie/SEEL_CMUSPHINX/wav/speaker_8/niiq_2.wav to /home/likudie/SEEL_CMUSPHINX/feat/speaker_8/niiq_2.mfc
-ERROR: "sphinx_fe.c", line 140: Sample rate 44100 does not match configured value 16000.0 in file '/home/likudie/SEEL_CMUSPHINX/wav/speaker_8/niiq_2.wav'
 INFO: sphinx_fe.c(791): Converting /home/likudie/SEEL_CMUSPHINX/wav/speaker_8/niiq_3.wav to /home/likudie/SEEL_CMUSPHINX/feat/speaker_8/niiq_3.mfc
-ERROR: "sphinx_fe.c", line 140: Sample rate 44100 does not match configured value 16000.0 in file '/home/likudie/SEEL_CMUSPHINX/wav/speaker_8/niiq_3.wav'
 INFO: sphinx_fe.c(791): Converting /home/likudie/SEEL_CMUSPHINX/wav/speaker_8/niiq_4.wav to /home/likudie/SEEL_CMUSPHINX/feat/speaker_8/niiq_4.mfc
-ERROR: "sphinx_fe.c", line 140: Sample rate 44100 does not match configured value 16000.0 in file '/home/likudie/SEEL_CMUSPHINX/wav/speaker_8/niiq_4.wav'
 INFO: sphinx_fe.c(791): Converting /home/likudie/SEEL_CMUSPHINX/wav/speaker_8/niiq_5.wav to /home/likudie/SEEL_CMUSPHINX/feat/speaker_8/niiq_5.mfc
-ERROR: "sphinx_fe.c", line 140: Sample rate 44100 does not match configured value 16000.0 in file '/home/likudie/SEEL_CMUSPHINX/wav/speaker_8/niiq_5.wav'
 INFO: sphinx_fe.c(791): Converting /home/likudie/SEEL_CMUSPHINX/wav/speaker_8/niiq_6.wav to /home/likudie/SEEL_CMUSPHINX/feat/speaker_8/niiq_6.mfc
-ERROR: "sphinx_fe.c", line 140: Sample rate 44100 does not match configured value 16000.0 in file '/home/likudie/SEEL_CMUSPHINX/wav/speaker_8/niiq_6.wav'
 INFO: sphinx_fe.c(791): Converting /home/likudie/SEEL_CMUSPHINX/wav/speaker_8/niiq_7.wav to /home/likudie/SEEL_CMUSPHINX/feat/speaker_8/niiq_7.mfc
-ERROR: "sphinx_fe.c", line 140: Sample rate 44100 does not match configured value 16000.0 in file '/home/likudie/SEEL_CMUSPHINX/wav/speaker_8/niiq_7.wav'
 INFO: sphinx_fe.c(791): Converting /home/likudie/SEEL_CMUSPHINX/wav/speaker_8/niiq_9.wav to /home/likudie/SEEL_CMUSPHINX/feat/speaker_8/niiq_9.mfc
-ERROR: "sphinx_fe.c", line 140: Sample rate 44100 does not match configured value 16000.0 in file '/home/likudie/SEEL_CMUSPHINX/wav/speaker_8/niiq_9.wav'
 INFO: sphinx_fe.c(791): Converting /home/likudie/SEEL_CMUSPHINX/wav/speaker_9/Ray_1.wav to /home/likudie/SEEL_CMUSPHINX/feat/speaker_9/Ray_1.mfc
-ERROR: "sphinx_fe.c", line 140: Sample rate 44100 does not match configured value 16000.0 in file '/home/likudie/SEEL_CMUSPHINX/wav/speaker_9/Ray_1.wav'
 INFO: sphinx_fe.c(791): Converting /home/likudie/SEEL_CMUSPHINX/wav/speaker_9/Ray_2.wav to /home/likudie/SEEL_CMUSPHINX/feat/speaker_9/Ray_2.mfc
-ERROR: "sphinx_fe.c", line 140: Sample rate 44100 does not match configured value 16000.0 in file '/home/likudie/SEEL_CMUSPHINX/wav/speaker_9/Ray_2.wav'
 INFO: sphinx_fe.c(791): Converting /home/likudie/SEEL_CMUSPHINX/wav/speaker_9/Ray_3.wav to /home/likudie/SEEL_CMUSPHINX/feat/speaker_9/Ray_3.mfc
-ERROR: "sphinx_fe.c", line 140: Sample rate 44100 does not match configured value 16000.0 in file '/home/likudie/SEEL_CMUSPHINX/wav/speaker_9/Ray_3.wav'
 INFO: sphinx_fe.c(791): Converting /home/likudie/SEEL_CMUSPHINX/wav/speaker_9/Ray_4.wav to /home/likudie/SEEL_CMUSPHINX/feat/speaker_9/Ray_4.mfc
-ERROR: "sphinx_fe.c", line 140: Sample rate 44100 does not match configured value 16000.0 in file '/home/likudie/SEEL_CMUSPHINX/wav/speaker_9/Ray_4.wav'
 INFO: sphinx_fe.c(791): Converting /home/likudie/SEEL_CMUSPHINX/wav/speaker_9/Ray_5.wav to /home/likudie/SEEL_CMUSPHINX/feat/speaker_9/Ray_5.mfc
-ERROR: "sphinx_fe.c", line 140: Sample rate 44100 does not match configured value 16000.0 in file '/home/likudie/SEEL_CMUSPHINX/wav/speaker_9/Ray_5.wav'
 INFO: sphinx_fe.c(791): Converting /home/likudie/SEEL_CMUSPHINX/wav/speaker_9/Ray_6.wav to /home/likudie/SEEL_CMUSPHINX/feat/speaker_9/Ray_6.mfc
-ERROR: "sphinx_fe.c", line 140: Sample rate 44100 does not match configured value 16000.0 in file '/home/likudie/SEEL_CMUSPHINX/wav/speaker_9/Ray_6.wav'
 INFO: sphinx_fe.c(791): Converting /home/likudie/SEEL_CMUSPHINX/wav/speaker_9/Ray_7.wav to /home/likudie/SEEL_CMUSPHINX/feat/speaker_9/Ray_7.mfc
-ERROR: "sphinx_fe.c", line 140: Sample rate 44100 does not match configured value 16000.0 in file '/home/likudie/SEEL_CMUSPHINX/wav/speaker_9/Ray_7.wav'
 INFO: sphinx_fe.c(791): Converting /home/likudie/SEEL_CMUSPHINX/wav/speaker_9/Ray_8.wav to /home/likudie/SEEL_CMUSPHINX/feat/speaker_9/Ray_8.mfc
-ERROR: "sphinx_fe.c", line 140: Sample rate 44100 does not match configured value 16000.0 in file '/home/likudie/SEEL_CMUSPHINX/wav/speaker_9/Ray_8.wav'
 INFO: sphinx_fe.c(791): Converting /home/likudie/SEEL_CMUSPHINX/wav/speaker_10/sam_1.wav to /home/likudie/SEEL_CMUSPHINX/feat/speaker_10/sam_1.mfc
-ERROR: "sphinx_fe.c", line 140: Sample rate 44100 does not match configured value 16000.0 in file '/home/likudie/SEEL_CMUSPHINX/wav/speaker_10/sam_1.wav'
 INFO: sphinx_fe.c(791): Converting /home/likudie/SEEL_CMUSPHINX/wav/speaker_10/sam_2.wav to /home/likudie/SEEL_CMUSPHINX/feat/speaker_10/sam_2.mfc
-ERROR: "sphinx_fe.c", line 140: Sample rate 44100 does not match configured value 16000.0 in file '/home/likudie/SEEL_CMUSPHINX/wav/speaker_10/sam_2.wav'
 INFO: sphinx_fe.c(791): Converting /home/likudie/SEEL_CMUSPHINX/wav/speaker_10/sam_3.wav to /home/likudie/SEEL_CMUSPHINX/feat/speaker_10/sam_3.mfc
-ERROR: "sphinx_fe.c", line 140: Sample rate 44100 does not match configured value 16000.0 in file '/home/likudie/SEEL_CMUSPHINX/wav/speaker_10/sam_3.wav'
 INFO: sphinx_fe.c(791): Converting /home/likudie/SEEL_CMUSPHINX/wav/speaker_10/sam_4.wav to /home/likudie/SEEL_CMUSPHINX/feat/speaker_10/sam_4.mfc
-ERROR: "sphinx_fe.c", line 140: Sample rate 44100 does not match configured value 16000.0 in file '/home/likudie/SEEL_CMUSPHINX/wav/speaker_10/sam_4.wav'
 INFO: sphinx_fe.c(791): Converting /home/likudie/SEEL_CMUSPHINX/wav/speaker_10/sam_5.wav to /home/likudie/SEEL_CMUSPHINX/feat/speaker_10/sam_5.mfc
-ERROR: "sphinx_fe.c", line 140: Sample rate 44100 does not match configured value 16000.0 in file '/home/likudie/SEEL_CMUSPHINX/wav/speaker_10/sam_5.wav'
 INFO: sphinx_fe.c(791): Converting /home/likudie/SEEL_CMUSPHINX/wav/speaker_10/sam_6.wav to /home/likudie/SEEL_CMUSPHINX/feat/speaker_10/sam_6.mfc
-ERROR: "sphinx_fe.c", line 140: Sample rate 44100 does not match configured value 16000.0 in file '/home/likudie/SEEL_CMUSPHINX/wav/speaker_10/sam_6.wav'
 INFO: sphinx_fe.c(791): Converting /home/likudie/SEEL_CMUSPHINX/wav/speaker_10/sam_7.wav to /home/likudie/SEEL_CMUSPHINX/feat/speaker_10/sam_7.mfc
-ERROR: "sphinx_fe.c", line 140: Sample rate 44100 does not match configured value 16000.0 in file '/home/likudie/SEEL_CMUSPHINX/wav/speaker_10/sam_7.wav'
 INFO: sphinx_fe.c(791): Converting /home/likudie/SEEL_CMUSPHINX/wav/speaker_10/sam_8.wav to /home/likudie/SEEL_CMUSPHINX/feat/speaker_10/sam_8.mfc
-ERROR: "sphinx_fe.c", line 140: Sample rate 44100 does not match configured value 16000.0 in file '/home/likudie/SEEL_CMUSPHINX/wav/speaker_10/sam_8.wav'
 INFO: sphinx_fe.c(791): Converting /home/likudie/SEEL_CMUSPHINX/wav/speaker_10/sam_9.wav to /home/likudie/SEEL_CMUSPHINX/feat/speaker_10/sam_9.mfc
-ERROR: "sphinx_fe.c", line 140: Sample rate 44100 does not match configured value 16000.0 in file '/home/likudie/SEEL_CMUSPHINX/wav/speaker_10/sam_9.wav'
-Thu Jan 31 11:18:24 2019
+Tue Jun 25 13:59:47 2019

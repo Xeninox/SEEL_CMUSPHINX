@@ -1,0 +1,204 @@
+        INFO: main.c(229): Compiled on Apr 10 2019 at 14:15:36
+Current configuration:
+[NAME]		[DEFLT]		[VALUE]
+-2passvar	no		no
+-abeam		1e-100		1.000000e-90
+-accumdir			/home/likudie/SEEL_CMUSPHINX/bwaccumdir/SEEL_CMUSPHINX_buff_1
+-agc		none		none
+-agcthresh	2.0		2.000000e+00
+-bbeam		1e-100		1.000000e-10
+-cb2mllrfn	.1cls.		.1cls.
+-cepdir				/home/likudie/SEEL_CMUSPHINX/feat
+-cepext		mfc		mfc
+-ceplen		13		13
+-ckptintv			0
+-cmn		live		batch
+-cmninit	40,3,-1		40,3,-1
+-ctlfn				/home/likudie/SEEL_CMUSPHINX/etc/SEEL_CMUSPHINX_train.fileids
+-diagfull	no		no
+-dictfn				/home/likudie/SEEL_CMUSPHINX/etc/SEEL_CMUSPHINX.dic
+-example	no		no
+-fdictfn			/home/likudie/SEEL_CMUSPHINX/etc/SEEL_CMUSPHINX.filler
+-feat		1s_c_d_dd	1s_c_d_dd
+-fullvar	no		no
+-help		no		no
+-hmmdir				
+-latdir				
+-latext				
+-lda				
+-ldadim		0		0
+-lsnfn				/home/likudie/SEEL_CMUSPHINX/etc/SEEL_CMUSPHINX_train.transcription
+-lw		11.5		1.150000e+01
+-maxuttlen	0		0
+-meanfn				/home/likudie/SEEL_CMUSPHINX/model_parameters/SEEL_CMUSPHINX.ci_cont_flatinitial/means
+-meanreest	yes		yes
+-mixwfn				/home/likudie/SEEL_CMUSPHINX/model_parameters/SEEL_CMUSPHINX.ci_cont_flatinitial/mixture_weights
+-mixwreest	yes		yes
+-mllrmat			
+-mmie		no		no
+-mmie_type	rand		rand
+-moddeffn			/home/likudie/SEEL_CMUSPHINX/model_architecture/SEEL_CMUSPHINX.ci.mdef
+-mwfloor	0.00001		1.000000e-08
+-npart				1
+-nskip				0
+-outphsegdir			
+-outputfullpath	no		no
+-part				1
+-pdumpdir			
+-phsegdir			
+-phsegext	phseg		phseg
+-runlen		-1		-1
+-sentdir			
+-sentext	sent		sent
+-spthresh	0.0		0.000000e+00
+-svspec				
+-timing		yes		no
+-tmatfn				/home/likudie/SEEL_CMUSPHINX/model_parameters/SEEL_CMUSPHINX.ci_cont_flatinitial/transition_matrices
+-tmatreest	yes		yes
+-topn		4		1
+-tpfloor	0.0001		1.000000e-04
+-ts2cbfn			.cont.
+-varfloor	0.00001		1.000000e-04
+-varfn				/home/likudie/SEEL_CMUSPHINX/model_parameters/SEEL_CMUSPHINX.ci_cont_flatinitial/variances
+-varnorm	no		no
+-varreest	yes		yes
+-viterbi	no		no
+
+INFO: feat.c(715): Initializing feature stream to type: '1s_c_d_dd', ceplen=13, CMN='batch', VARNORM='no', AGC='none'
+INFO: main.c(318): Reading /home/likudie/SEEL_CMUSPHINX/model_architecture/SEEL_CMUSPHINX.ci.mdef
+INFO: model_def_io.c(573): Model definition info:
+INFO: model_def_io.c(574): 22 total models defined (22 base, 0 tri)
+INFO: model_def_io.c(575): 88 total states
+INFO: model_def_io.c(576): 66 total tied states
+INFO: model_def_io.c(577): 66 total tied CI states
+INFO: model_def_io.c(578): 22 total tied transition matrices
+INFO: model_def_io.c(579): 4 max state/model
+INFO: model_def_io.c(580): 4 min state/model
+INFO: s3mixw_io.c(117): Read /home/likudie/SEEL_CMUSPHINX/model_parameters/SEEL_CMUSPHINX.ci_cont_flatinitial/mixture_weights [66x1x1 array]
+INFO: s3tmat_io.c(118): Read /home/likudie/SEEL_CMUSPHINX/model_parameters/SEEL_CMUSPHINX.ci_cont_flatinitial/transition_matrices [22x3x4 array]
+INFO: mod_inv.c(301): inserting tprob floor 1.000000e-04 and renormalizing
+INFO: s3gau_io.c(169): Read /home/likudie/SEEL_CMUSPHINX/model_parameters/SEEL_CMUSPHINX.ci_cont_flatinitial/means [66x1x1 array]
+INFO: s3gau_io.c(169): Read /home/likudie/SEEL_CMUSPHINX/model_parameters/SEEL_CMUSPHINX.ci_cont_flatinitial/variances [66x1x1 array]
+INFO: gauden.c(176): 66 total mgau
+INFO: gauden.c(150): 1 feature streams (|0|=39 )
+INFO: gauden.c(187): 1 total densities
+INFO: gauden.c(90): min_var=1.000000e-04
+INFO: gauden.c(165): compute 1 densities/frame
+INFO: main.c(431): Will reestimate mixing weights.
+INFO: main.c(433): Will reestimate means.
+INFO: main.c(435): Will reestimate variances.
+INFO: main.c(443): Will reestimate transition matrices
+INFO: main.c(456): Reading main dictionary: /home/likudie/SEEL_CMUSPHINX/etc/SEEL_CMUSPHINX.dic
+INFO: lexicon.c(221): 29 entries added from /home/likudie/SEEL_CMUSPHINX/etc/SEEL_CMUSPHINX.dic
+INFO: main.c(466): Reading filler dictionary: /home/likudie/SEEL_CMUSPHINX/etc/SEEL_CMUSPHINX.filler
+INFO: lexicon.c(221): 3 entries added from /home/likudie/SEEL_CMUSPHINX/etc/SEEL_CMUSPHINX.filler
+INFO: corpus.c(1062): Will process all remaining utts starting at 0
+INFO: main.c(665): Reestimation: Baum-Welch
+WARN: "main.c", line 768: utt adobs_2 too short
+WARN: "main.c", line 768: utt adobs_3 too short
+WARN: "main.c", line 768: utt adobs_4 too short
+WARN: "main.c", line 768: utt adobs_5 too short
+WARN: "main.c", line 768: utt adobs_6 too short
+WARN: "main.c", line 768: utt adobs_7 too short
+WARN: "main.c", line 768: utt adobs_8 too short
+WARN: "main.c", line 768: utt adobs_9 too short
+WARN: "main.c", line 768: utt dav_1 too short
+WARN: "main.c", line 768: utt dav_3 too short
+WARN: "main.c", line 768: utt dav_4 too short
+WARN: "main.c", line 768: utt dav_5 too short
+WARN: "main.c", line 768: utt dav_6 too short
+WARN: "main.c", line 768: utt dav_7 too short
+WARN: "main.c", line 768: utt dav_8 too short
+WARN: "main.c", line 768: utt dav_9 too short
+WARN: "main.c", line 768: utt gospel_1 too short
+WARN: "main.c", line 768: utt gospel_2 too short
+WARN: "main.c", line 768: utt gospel_4 too short
+WARN: "main.c", line 768: utt gospel_5 too short
+WARN: "main.c", line 768: utt gospel_6 too short
+WARN: "main.c", line 768: utt gospel_7 too short
+WARN: "main.c", line 768: utt gospel_8 too short
+WARN: "main.c", line 768: utt gospel_9 too short
+WARN: "main.c", line 768: utt jeremiah_1 too short
+WARN: "main.c", line 768: utt jeremiah_2 too short
+WARN: "main.c", line 768: utt jeremiah_3 too short
+WARN: "main.c", line 768: utt jeremiah_5 too short
+WARN: "main.c", line 768: utt jeremiah_6 too short
+WARN: "main.c", line 768: utt jeremiah_7 too short
+WARN: "main.c", line 768: utt jeremiah_8 too short
+WARN: "main.c", line 768: utt jeremiah_9 too short
+WARN: "main.c", line 768: utt karin_1 too short
+WARN: "main.c", line 768: utt karin_2 too short
+WARN: "main.c", line 768: utt karin_3 too short
+WARN: "main.c", line 768: utt karin_4 too short
+WARN: "main.c", line 768: utt karin_6 too short
+WARN: "main.c", line 768: utt karin_7 too short
+WARN: "main.c", line 768: utt karin_8 too short
+WARN: "main.c", line 768: utt karin_9 too short
+WARN: "main.c", line 768: utt mariam_1 too short
+WARN: "main.c", line 768: utt mariam_2 too short
+WARN: "main.c", line 768: utt mariam_3 too short
+WARN: "main.c", line 768: utt mariam_4 too short
+WARN: "main.c", line 768: utt mariam_5 too short
+WARN: "main.c", line 768: utt mariam_7 too short
+WARN: "main.c", line 768: utt mariam_8 too short
+WARN: "main.c", line 768: utt mariam_9 too short
+WARN: "main.c", line 768: utt nanaaba_1 too short
+WARN: "main.c", line 768: utt nanaaba_2 too short
+WARN: "main.c", line 768: utt nanaaba_3 too short
+WARN: "main.c", line 768: utt nanaaba_4 too short
+WARN: "main.c", line 768: utt nanaaba_5 too short
+WARN: "main.c", line 768: utt nanaaba_6 too short
+WARN: "main.c", line 768: utt nanaaba_8 too short
+WARN: "main.c", line 768: utt nanaaba_9 too short
+WARN: "main.c", line 768: utt niiq_1 too short
+WARN: "main.c", line 768: utt niiq_2 too short
+WARN: "main.c", line 768: utt niiq_3 too short
+WARN: "main.c", line 768: utt niiq_4 too short
+WARN: "main.c", line 768: utt niiq_5 too short
+WARN: "main.c", line 768: utt niiq_6 too short
+WARN: "main.c", line 768: utt niiq_7 too short
+WARN: "main.c", line 768: utt niiq_9 too short
+WARN: "main.c", line 768: utt Ray_1 too short
+WARN: "main.c", line 768: utt Ray_2 too short
+WARN: "main.c", line 768: utt Ray_3 too short
+WARN: "main.c", line 768: utt Ray_4 too short
+WARN: "main.c", line 768: utt Ray_5 too short
+WARN: "main.c", line 768: utt Ray_6 too short
+WARN: "main.c", line 768: utt Ray_7 too short
+WARN: "main.c", line 768: utt Ray_8 too short
+WARN: "main.c", line 768: utt sam_1 too short
+WARN: "main.c", line 768: utt sam_2 too short
+WARN: "main.c", line 768: utt sam_3 too short
+WARN: "main.c", line 768: utt sam_4 too short
+WARN: "main.c", line 768: utt sam_5 too short
+WARN: "main.c", line 768: utt sam_6 too short
+WARN: "main.c", line 768: utt sam_7 too short
+WARN: "main.c", line 768: utt sam_8 too short
+WARN: "main.c", line 768: utt sam_9 too short
+column defns
+	<seq>
+	<id>
+	<n_frame_in>
+	<n_frame_del>
+	<n_state_shmm>
+	<avg_states_alpha>
+	<avg_states_beta>
+	<avg_states_reest>
+	<avg_posterior_prune>
+	<frame_log_lik>
+	<utt_log_lik>
+	... timing info ... 
+utt>     0                   adobs_2    0utt>     0                   adobs_3    0utt>     0                   adobs_4    0utt>     0                   adobs_5    0utt>     0                   adobs_6    0utt>     0                   adobs_7    0utt>     0                   adobs_8    0utt>     0                   adobs_9    0utt>     0                     dav_1    0utt>     0                     dav_3    0utt>     0                     dav_4    0utt>     0                     dav_5    0utt>     0                     dav_6    0utt>     0                     dav_7    0utt>     0                     dav_8    0utt>     0                     dav_9    0utt>     0                  gospel_1    0utt>     0                  gospel_2    0utt>     0                  gospel_4    0utt>     0                  gospel_5    0utt>     0                  gospel_6    0utt>     0                  gospel_7    0utt>     0                  gospel_8    0utt>     0                  gospel_9    0utt>     0                jeremiah_1    0utt>     0                jeremiah_2    0utt>     0                jeremiah_3    0utt>     0                jeremiah_5    0utt>     0                jeremiah_6    0utt>     0                jeremiah_7    0utt>     0                jeremiah_8    0utt>     0                jeremiah_9    0utt>     0                   karin_1    0utt>     0                   karin_2    0utt>     0                   karin_3    0utt>     0                   karin_4    0utt>     0                   karin_6    0utt>     0                   karin_7    0utt>     0                   karin_8    0utt>     0                   karin_9    0utt>     0                  mariam_1    0utt>     0                  mariam_2    0utt>     0                  mariam_3    0utt>     0                  mariam_4    0utt>     0                  mariam_5    0utt>     0                  mariam_7    0utt>     0                  mariam_8    0utt>     0                  mariam_9    0utt>     0                 nanaaba_1    0utt>     0                 nanaaba_2    0utt>     0                 nanaaba_3    0utt>     0                 nanaaba_4    0utt>     0                 nanaaba_5    0utt>     0                 nanaaba_6    0utt>     0                 nanaaba_8    0utt>     0                 nanaaba_9    0utt>     0                    niiq_1    0utt>     0                    niiq_2    0utt>     0                    niiq_3    0utt>     0                    niiq_4    0utt>     0                    niiq_5    0utt>     0                    niiq_6    0utt>     0                    niiq_7    0utt>     0                    niiq_9    0utt>     0                     Ray_1    0utt>     0                     Ray_2    0utt>     0                     Ray_3    0utt>     0                     Ray_4    0utt>     0                     Ray_5    0utt>     0                     Ray_6    0utt>     0                     Ray_7    0utt>     0                     Ray_8    0utt>     0                     sam_1    0utt>     0                     sam_2    0utt>     0                     sam_3    0utt>     0                     sam_4    0utt>     0                     sam_5    0utt>     0                     sam_6    0utt>     0                     sam_7    0utt>     0                     sam_8    0utt>     0                     sam_9    0overall> stats 0 (-0) 0.000000e+00 0.000000e+00
+WARN: "accum.c", line 642: The following senones never occur in the input data
+	0 1 2 3 4 5 6 7 8 9 
+	10 11 12 13 14 15 16 17 18 19 
+	20 21 22 23 24 25 26 27 28 29 
+	30 31 32 33 34 35 36 37 38 39 
+	40 41 42 43 44 45 46 47 48 49 
+	50 51 52 53 54 55 56 57 58 59 
+	60 61 62 63 64 65 
+INFO: s3mixw_io.c(233): Wrote /home/likudie/SEEL_CMUSPHINX/bwaccumdir/SEEL_CMUSPHINX_buff_1/mixw_counts [66x1x1 array]
+INFO: s3tmat_io.c(176): Wrote /home/likudie/SEEL_CMUSPHINX/bwaccumdir/SEEL_CMUSPHINX_buff_1/tmat_counts [22x3x4 array]
+INFO: s3gau_io.c(485): Wrote /home/likudie/SEEL_CMUSPHINX/bwaccumdir/SEEL_CMUSPHINX_buff_1/gauden_counts with means with vars [66x1x1 vector arrays]
+INFO: main.c(999): Counts saved to /home/likudie/SEEL_CMUSPHINX/bwaccumdir/SEEL_CMUSPHINX_buff_1
+Tue Jun 25 13:59:48 2019
